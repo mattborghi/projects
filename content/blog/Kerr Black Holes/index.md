@@ -2,9 +2,10 @@
 title: Kerr Black Holes
 date: "2014-12-14"
 thumbnail: ./blackhole.jpg
-description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
+description: Kerr Metric study, calculations and current scientific projects.
 ---
 
+This is the final project presented for the course `General Relativity` in 2014.
 
 ### Document
 
