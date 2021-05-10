@@ -185,7 +185,7 @@ body {
     opacity: 1;
 }
 
-.nav-current a {
+.nav-home a {
     color: var(--current-item);
     font-weight: var(--font-current);
 }
