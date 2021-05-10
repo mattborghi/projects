@@ -12,12 +12,15 @@ Fore more information, visit the GitHub repository
 </a>
 </span>
 
+### Introduction
+
+A minimal working project that handles several pseudoterminals running `Julia` on `React`. It's UI design is based on VSCode and Atom IDEs.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6E5Deijb9vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### Stack used
 
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
 - [Julia](https://julialang.org/)
-
-A minimal working project that handles several pseudoterminals running `Julia` on `React`. It's UI design is based on VSCode and Atom IDEs.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6E5Deijb9vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

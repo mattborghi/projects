@@ -5,6 +5,22 @@ description: 'Project implementing a background tasks/jobs queue with React as f
 thumbnail: './preview.png'
 ---
 
+<span style="display:flex; flex-direction: row; align-items: center; justify-content: flex-start;">
+Fore more information, visit the GitHub repository
+<a style="padding-left: 10px;" href="https://github.com/mattborghi/background-tasks-queue">
+  <img src="../../assets/github.svg" height="20px" width="20px">
+</a>
+</span>
+
+<span style="display:flex; flex-direction: row; align-items: center; justify-content: flex-start;">
+In order to see and test a live demo deployed using Heroku click here
+<a style="padding-left: 10px;" href="https://mattborghi.github.io/background-tasks-queue/">
+  <img src="../../assets/heroku.svg" height="20px" width="20px">
+</a>
+</span>
+
+> Note: The webpage might be showing an error message because the dyno workers deployed in `Heroku` are turned off.
+
 ### Introduction
 
 The frontend (`React.js`) will generate a request (through `GraphQL` endpoints) to the backend in order to create new tasks. The backend (`Django`) will respond with a task item scheduled for running which is seen in the table with a `QUEUEING` status.
@@ -24,22 +40,6 @@ Finally, a long polling connection between the frontend and the backend is made 
 As a side note, this pattern allowes us to recover the tasks assigned to a worker in case it is shut down for some reason and assign them to other free workers or remain in memory if all the workers are busy.
 
 Below, there is a small video showcasing the project capabilities.
-
-<span style="display:flex; flex-direction: row; align-items: center; justify-content: flex-start;">
-Fore more information, visit the GitHub repository
-<a style="padding-left: 10px;" href="https://github.com/mattborghi/background-tasks-queue">
-  <img src="../../assets/github.svg" height="20px" width="20px">
-</a>
-</span>
-
-<span style="display:flex; flex-direction: row; align-items: center; justify-content: flex-start;">
-In order to see and test a live demo deployed using Heroku click here
-<a style="padding-left: 10px;" href="https://mattborghi.github.io/background-tasks-queue/">
-  <img src="../../assets/heroku.svg" height="20px" width="20px">
-</a>
-</span>
-
-> Note: The webpage might be showing an error message because the dyno workers deployed in `Heroku` are turned off.
 
 ### Tech Used
 

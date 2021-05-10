@@ -5,6 +5,16 @@ thumbnail: ./blackhole.jpg
 description: Kerr Metric study, calculations and current scientific projects.
 ---
 
+
+<span style="display:flex; flex-direction: row; align-items: center; justify-content: flex-start;">
+Fore more information, visit the GitHub repository
+<a style="padding-left: 10px;" href="https://github.com/mattborghi/kerr-blackholes">
+  <img src="../../assets/github.svg" height="20px" width="20px">
+</a>
+</span>
+
+### Introduction
+
 This is the final project presented for the course `General Relativity` in 2014.
 
 ### Document
