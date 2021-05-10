@@ -274,6 +274,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
     -moz-font-feature-settings: "liga" on;
 }
+body.dark {
+    color: color(var(--color-base-dark) l(+20%));
+}
 
 ::selection {
     text-shadow: none;
@@ -289,6 +292,9 @@ hr {
     height: 1px;
     border: 0;
     border-top: 1px solid color(var(--color-border) l(+10%));
+}
+body.dark hr {
+    border-top: 1px solid color(var(--color-border-dark) l(+10%));
 }
 
 audio,
@@ -309,6 +315,9 @@ blockquote {
     margin: 1.5em 0;
     padding: 0 1.6em 0 1.6em;
     border-left: var(--color-bg) 0.5em solid;
+}
+body.dark blockquote {
+    border-left: var(--color-bg-dark) 0.5em solid;
 }
 
 blockquote p {
@@ -339,6 +348,9 @@ a {
     color: color(var(--color-primary) l(-5%));
     text-decoration: none;
     transition: 0.4s ease;
+}
+body.dark a {
+    color: color(var(--color-primary-dark) l(-5%));
 }
 
 a:hover {

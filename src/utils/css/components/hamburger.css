@@ -36,6 +36,10 @@
     border-radius: 4px;
     transition: transform 0.15s ease;
 }
+body.dark .hamburger-inner::after {
+    background-color: color(var(--color-border-dark) l(-20%));
+}
+
 .hamburger-inner::before,
 .hamburger-inner::after {
     content: "";
@@ -72,6 +76,9 @@
 .site-head-open .hamburger-inner::before,
 .site-head-open .hamburger-inner::after {
     background-color: var(--color-base);
+}
+body.dark .site-head-open .hamburger-inner::after {
+    background-color: var(--color-base-dark);
 }
 
 .site-head-open .hamburger-inner {

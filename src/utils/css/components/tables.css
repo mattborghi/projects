@@ -15,6 +15,9 @@ th {
     padding: 0 0.7em 0.4em 0.7em;
     text-align: left;
 }
+body.dark th {
+    color: var(--color-base-dark);
+}
 
 td {
     padding: 0.4em 0.7em;
@@ -31,6 +34,9 @@ tbody tr {
     border-left: 0;
     border-right: 0;
 }
+body.dark tbody tr {
+    border: solid 1px var(--color-border-dark);
+}
 
 tbody tr:first-child td {
     border-top-width: 1px;
@@ -39,11 +45,17 @@ tbody tr:first-child td {
 tbody tr:nth-child(2n + 1) {
     background-color: var(--color-bg);
 }
+body.dark tbody tr:nth-child(2n + 1) {
+    background-color: var(--color-bg-dark);
+}
 
 tbody td {
     border: solid 1px var(--color-border);
     border-left-width: 0;
     border-top-width: 0;
+}
+body.dark tbody td {
+    border: solid 1px var(--color-border-dark);
 }
 
 tfoot {

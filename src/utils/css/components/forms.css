@@ -18,6 +18,9 @@ label {
     font-weight: var(--font-bold);
     margin: 0 0 (var(--margin) * 0.5) 0;
 }
+body.dark label {
+    color: var(--color-primary-dark);
+}
 
 input[type="text"],
 input[type="password"],
@@ -37,6 +40,11 @@ textarea {
     padding: 0 0.6em;
     text-decoration: none;
     width: 100%;
+}
+body.dark select,
+body.dark textarea {
+    background: var(--color-bg-dark);
+    border: solid 1px var(--color-border-dark);
 }
 
 input[type="text"]:invalid,
@@ -61,6 +69,11 @@ textarea:focus {
     border-color: var(--color-primary);
     box-shadow: 0 0 0 1px var(--color-primary);
 }
+body.dark select:focus,
+body.dark textarea:focus {
+    border-color: var(--color-primary-dark);
+    box-shadow: 0 0 0 1px var(--color-primary-dark);
+}
 
 select {
     height: var(--height);
@@ -71,6 +84,10 @@ select {
 select option {
     color: var(--color-primary);
     background: var(--color-bg);
+}
+body.dark select option {
+    color: var(--color-primary-dark);
+    background: var(--color-bg-dark);
 }
 
 select:focus::-ms-value {
@@ -119,6 +136,10 @@ input[type="radio"] + label {
     position: relative;
     user-select: none;
 }
+body.dark input[type="checkbox"] + label,
+body.dark input[type="radio"] + label {
+    color: var(--color-base-dark);
+}
 
 input[type="checkbox"] + label:before,
 input[type="radio"] + label:before {
@@ -133,6 +154,11 @@ input[type="radio"] + label:before {
     width: calc(var(--height) * 0.6);
     margin-right: 1rem;
 }
+body.dark input[type="checkbox"] + label:before,
+body.dark input[type="radio"] + label:before {
+    background: var(--color-bg-dark);
+    border: solid 1px var(--color-border-dark);
+}
 
 input[type="checkbox"]:checked + label:before,
 input[type="radio"]:checked + label:before {
@@ -141,11 +167,22 @@ input[type="radio"]:checked + label:before {
     color: var(--color-bg);
     content: '✓';
 }
+body.dark input[type="checkbox"]:checked + label:before,
+body.dark input[type="radio"]:checked + label:before {
+    background: var(--color-primary-dark);
+    border-color: var(--color-primary-dark);
+    color: var(--color-bg-dark);
+}
 
 input[type="checkbox"]:focus + label:before,
 input[type="radio"]:focus + label:before {
     border-color: var(--color-primary);
     box-shadow: 0 0 0 1px var(--color-primary);
+}
+body.dark input[type="checkbox"]:focus + label:before,
+body.dark input[type="radio"]:focus + label:before {
+    border-color: var(--color-primary-dark);
+    box-shadow: 0 0 0 1px var(--color-primary-dark);
 }
 
 

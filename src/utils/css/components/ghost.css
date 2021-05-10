@@ -26,6 +26,9 @@
     text-align: center;
     opacity: 0.4;
 }
+body.dark .kg-card figcaption {
+    color: var(--color-base-dark);
+}
 
 .kg-width-wide {
     position: relative;
