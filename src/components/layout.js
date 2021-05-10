@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 const Layout = props => {
-  const { title, children } = props
+  const { location, title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
@@ -10,7 +10,7 @@ const Layout = props => {
         <div className="site-head-container">
           <a
             className="nav-burger"
-            href="#"
+            href="#link"
             onClick={() => setToggleNav(!toggleNav)}
           >
             <div
@@ -25,20 +25,29 @@ const Layout = props => {
             </div>
           </a>
           <nav id="swup" className="site-head-left">
-            <ul className="nav" role="menu">
-              <li className="nav-home nav-current" role="menuitem">
-                <Link to="/">Home</Link>
+            <ul className="nav" role="menubar">
+              <li
+                className={`nav-home` + (location.pathname === `/` ? ` nav-current` : ``)}
+                role="none"
+              >
+                <Link to="/" role="menuitem">Home</Link>
               </li>
-              <li className="nav-about" role="menuitem">
-                <Link to="/about">About</Link>
+              <li
+                className={`nav-about` + (location.pathname === `/about` ? ` nav-current` : ``)}
+                role="none"
+              >
+                <Link to="/about" role="menuitem">About</Link>
               </li>
-              <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Elements</Link>
+              <li
+                className={`nav-elements` + (location.pathname === `/elements` ? ` nav-current` : ``)}
+                role="none"
+              >
+                <Link to="/elements" role="menuitem">Elements</Link>
               </li>
             </ul>
           </nav>
           <div className="site-head-center">
-            <Link className="site-head-logo" to={`/`}>
+            <Link className="site-head-logo" to="/">
               {title}
             </Link>
           </div>
@@ -60,14 +69,6 @@ const Layout = props => {
               >
                 Twitter
               </a>
-              <Link
-                to={`/rss.xml`}
-                title="RSS"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                RSS
-              </Link>
             </div>
           </div>
         </div>
