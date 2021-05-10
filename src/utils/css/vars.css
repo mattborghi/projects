@@ -10,6 +10,7 @@
     --color-base: #131313;
     --color-border: #ddd;
     --color-bg: #f8f8f8;
+    --current-item: red;
 
     /* Fonts */
     --font-sans-serif: 'Muli', sans-serif;
@@ -19,6 +20,7 @@
     --font-normal: 400;
     --font-bold: 700;
     --font-heavy: 800;
+    --font-current: 900;
 
     /* Breakpoints */
     --xlarge: 1680px;

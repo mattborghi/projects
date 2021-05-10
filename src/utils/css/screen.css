@@ -185,6 +185,11 @@ body {
     opacity: 1;
 }
 
+.nav-current a {
+    color: var(--current-item);
+    font-weight: var(--font-current);
+}
+
 .site-head-center {
     position: absolute;
     display: flex;
@@ -199,7 +204,7 @@ body {
     color: var(--color-base);
     font-size: 2.1rem;
     line-height: 1em;
-    font-weight: 700;
+    font-weight: var(--font-bold);
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -223,6 +228,11 @@ body {
     align-items: center;
 }
 
+.site-head-right a:hover,
+.site-head-left a:hover {
+    font-weight: var(--font-current);
+}
+
 .social-links {
     flex-shrink: 0;
     display: flex;
@@ -243,20 +253,6 @@ body {
 .subscribe-button:hover {
     text-decoration: none;
     opacity: 1;
-}
-
-.rss-button {
-    opacity: 0.4;
-}
-
-.rss-button:hover {
-    opacity: 1;
-}
-
-.rss-button svg {
-    margin-bottom: 1px;
-    height: 2.1rem;
-    fill: var(--color-base);
 }
 
 
