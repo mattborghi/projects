@@ -38,19 +38,7 @@ const Layout = props => {
               >
                 <Link to="/" role="menuitem">Home</Link>
               </li>
-              <li role="none"><a href="https://mattborghi.github.io">Main Page</a></li>
-              {/* <li
-                className={`nav-about` + (location.pathname === `/about` ? ` nav-current` : ``)}
-                role="none"
-              >
-                <Link to="/about" role="menuitem">About</Link>
-              </li>
-              <li
-                className={`nav-elements` + (location.pathname === `/elements` ? ` nav-current` : ``)}
-                role="none"
-              >
-                <Link to="/elements" role="menuitem">Elements</Link>
-              </li> */}
+              <li role="none"><a href={siteConfig.url}>Main Page</a></li>
             </ul>
           </nav>
           <div className="site-head-center">

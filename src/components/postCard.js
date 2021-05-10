@@ -19,6 +19,8 @@ export default props => (
         <h2 className="post-card-title">
           {props.node.frontmatter.title || props.node.fields.slug}
         </h2>
+
+        <p className="post-card-description">{props.node.frontmatter.description}</p>
       </div>
     </Link>
   </article>
