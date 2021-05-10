@@ -2,6 +2,7 @@ const urljoin = require("url-join")
 const siteConfig = require("./siteConfig")
 
 module.exports = {
+  pathPrefix: '/projects', // prefix name of the blog to use when building page
   siteMetadata: {
     title: siteConfig.name,
     author: siteConfig.author,
