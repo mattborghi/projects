@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Projects]]></title><description><![CDATA[Welcome! Please, take a look at all the projects I have been working on]]></description><link>https://mattborghi.github.io/projects</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 10 May 2021 16:22:00 GMT</lastBuildDate><item><title><![CDATA[Julia Terminal on the web]]></title><description><![CDATA[github: ’https://github.com/mattborghi/Julia-Terminal-Web’
+tech: React WebSockets Node.js Julia A minimal working project that handles…]]></description><link>https://mattborghi.github.io/projects/Julia Terminal Web/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/Julia Terminal Web/</guid><pubDate>Sat, 27 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;github: ’&lt;a href=&quot;https://github.com/mattborghi/Julia-Terminal-Web&quot;&gt;https://github.com/mattborghi/Julia-Terminal-Web&lt;/a&gt;’
+tech:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;WebSockets&lt;/li&gt;
+&lt;li&gt;Node.js&lt;/li&gt;
+&lt;li&gt;Julia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A minimal working project that handles several pseudoterminals running &lt;code class=&quot;language-text&quot;&gt;Julia&lt;/code&gt; on &lt;code class=&quot;language-text&quot;&gt;React&lt;/code&gt;. It’s UI design is based on VSCode and Atom IDEs.&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/6E5Deijb9vk&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Background Task Queues]]></title><description><![CDATA[Stack stack github: ’https://github.com/mattborghi/background-tasks-queue’ external: ’https://mattborghi.github.io/background-tasks-queue…]]></description><link>https://mattborghi.github.io/projects/Background Task Queues/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/Background Task Queues/</guid><pubDate>Wed, 06 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Stack&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/mattborghi/background-tasks-queue/raw/main/assets/stack.png&quot; alt=&quot;stack&quot;&gt;&lt;/p&gt;
+&lt;p&gt;github: ’&lt;a href=&quot;https://github.com/mattborghi/background-tasks-queue&quot;&gt;https://github.com/mattborghi/background-tasks-queue&lt;/a&gt;’&lt;/p&gt;
+&lt;p&gt;external: ’&lt;a href=&quot;https://mattborghi.github.io/background-tasks-queue/&quot;&gt;https://mattborghi.github.io/background-tasks-queue/&lt;/a&gt;’&lt;/p&gt;
+&lt;p&gt;tech:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;GraphQL&lt;/li&gt;
+&lt;li&gt;Django&lt;/li&gt;
+&lt;li&gt;SQLite&lt;/li&gt;
+&lt;li&gt;RabbitMQ&lt;/li&gt;
+&lt;li&gt;Julia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A minimal working project that generates background task queues that are distributed in different &lt;code class=&quot;language-text&quot;&gt;Julia&lt;/code&gt; workers using &lt;code class=&quot;language-text&quot;&gt;RabbitMQ&lt;/code&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note: The webpage might be showing an error message because the dyno workers deployed in &lt;code class=&quot;language-text&quot;&gt;Heroku&lt;/code&gt; are turned off.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/8aVgLDDIEdg&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Julia Editor on the web]]></title><description><![CDATA[github: ’https://github.com/mattborghi/monaco-editor-julia-language-server’
+tech: React WebSockets Node.js Julia A minimal working project…]]></description><link>https://mattborghi.github.io/projects/Julia Editor on the Web/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/Julia Editor on the Web/</guid><pubDate>Sun, 24 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;github: ’&lt;a href=&quot;https://github.com/mattborghi/monaco-editor-julia-language-server&quot;&gt;https://github.com/mattborghi/monaco-editor-julia-language-server&lt;/a&gt;’
+tech:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;WebSockets&lt;/li&gt;
+&lt;li&gt;Node.js&lt;/li&gt;
+&lt;li&gt;Julia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A minimal working project that handles Microsoft’s &lt;code class=&quot;language-text&quot;&gt;Monaco Editor&lt;/code&gt; on the web with &lt;code class=&quot;language-text&quot;&gt;Julia&lt;/code&gt;’s syntax highlighting and a dedicated &lt;a href=&quot;https://github.com/julia-vscode/LanguageServer.jl&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Julia Language Server&lt;/code&gt;&lt;/a&gt; that allows a certain user to have full access to package documentation, suggestion and snippets.&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/0hwiSMRdq7M&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[MSc. Thesis]]></title><description><![CDATA[Thesis Presentation]]></description><link>https://mattborghi.github.io/projects/MSc Thesis/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/MSc Thesis/</guid><pubDate>Thu, 08 Jun 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Thesis&lt;/h3&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 100%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;object data=&quot;https://docs.google.com/viewer?url=https://github.com/mattborghi/Thesis/raw/main/TesisFinal.pdf&amp;amp;embedded=true&quot; type=&quot;application/pdf&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;iframe src=&quot;https://docs.google.com/viewer?url=https://github.com/mattborghi/Thesis/raw/main/TesisFinal.pdf&amp;amp;embedded=true&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/object&gt; &lt;/div&gt;
+&lt;h3&gt;Presentation&lt;/h3&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 100%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;object data=&quot;https://docs.google.com/viewer?url=https://github.com/mattborghi/Thesis/raw/main/Presentaci%C3%B3n.pdf&amp;amp;embedded=true&quot; type=&quot;application/pdf&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;iframe src=&quot;https://docs.google.com/viewer?url=https://github.com/mattborghi/Thesis/raw/main/Presentaci%C3%B3n.pdf&amp;amp;embedded=true&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/object&gt; &lt;/div&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/23aec/presentation.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 587px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 73.52941176470587%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEFAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABpw9OFEIl/8QAHBAAAgICAwAAAAAAAAAAAAAAAQMCEgARExQi/9oACAEBAAEFAngGPX8sVWV7ZyyALN5//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bh//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAdEAABAwUBAAAAAAAAAAAAAAAAAQIREiEyQYGh/9oACAEBAAY/ArCLJAtb3cI0Y+n/xAAaEAEAAwEBAQAAAAAAAAAAAAABABExUSFx/9oACAEBAAE/IcmgVGuTyl5Big5AWMPYKtv9c//aAAwDAQACAAMAAAAQc9//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EBD20v/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQIBAT8QQmF2/8QAGxABAQEAAwEBAAAAAAAAAAAAAREAIUFxMYH/2gAIAQEAAT8QKCsWzzPDUc9B70KgQ84kLEKHf5qKCJEL7iiFPqnf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/51a8e/presentation.webp 340w,
+/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/2056a/presentation.webp 587w&quot;
+          sizes=&quot;(max-width: 587px) 100vw, 587px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/2e524/presentation.jpg 340w,
+/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/23aec/presentation.jpg 587w&quot;
+          sizes=&quot;(max-width: 587px) 100vw, 587px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/23aec/presentation.jpg&quot;
+          alt=&quot;presentation&quot;
+          title=&quot;&quot;
+          src=&quot;/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/23aec/presentation.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[ALAMBRE]]></title><description><![CDATA[Document Presentation]]></description><link>https://mattborghi.github.io/projects/ALAMBRE/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/ALAMBRE/</guid><pubDate>Tue, 08 Sep 2015 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Document&lt;/h3&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 100%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;object data=&quot;/96847696bfb941255c54e29a3965b07d/Detección_en_radio_de_rayos_cosmicos.pdf&quot; type=&quot;application/pdf&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;embed src=&quot;/96847696bfb941255c54e29a3965b07d/Detección_en_radio_de_rayos_cosmicos.pdf&quot;&gt; &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/96847696bfb941255c54e29a3965b07d/Detección_en_radio_de_rayos_cosmicos.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt; &lt;/object&gt; &lt;/div&gt;
+&lt;h3&gt;Presentation&lt;/h3&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 100%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;object data=&quot;/6a3d4f3c67a9cf0d38e1723c1c0bee14/ALAMBRE_POSTER_AFA.pdf&quot; type=&quot;application/pdf&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;embed src=&quot;/6a3d4f3c67a9cf0d38e1723c1c0bee14/ALAMBRE_POSTER_AFA.pdf&quot;&gt; &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/6a3d4f3c67a9cf0d38e1723c1c0bee14/ALAMBRE_POSTER_AFA.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt; &lt;/object&gt; &lt;/div&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 580px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 54.70588235294118%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAwCdASoUAAsAPtFWpEuoJKOhsAgBABoJZQB3AARviRnLUaTiKOEgAPa7dpEbWNrU5KT0JNzer+OYkO258D11aSu4SQ+v7AHWznOCYaBIVDBv95tj/z3T/4mlw2aHIy61LCMGA9AAAA==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c1046634373627ce06a35b5c0a8a2826/51a8e/presentation.webp 340w,
+/static/c1046634373627ce06a35b5c0a8a2826/694cd/presentation.webp 580w&quot;
+          sizes=&quot;(max-width: 580px) 100vw, 580px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c1046634373627ce06a35b5c0a8a2826/51a8e/presentation.webp 340w,
+/static/c1046634373627ce06a35b5c0a8a2826/694cd/presentation.webp 580w&quot;
+          sizes=&quot;(max-width: 580px) 100vw, 580px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/c1046634373627ce06a35b5c0a8a2826/694cd/presentation.webp&quot;
+          alt=&quot;poster&quot;
+          title=&quot;&quot;
+          src=&quot;/static/c1046634373627ce06a35b5c0a8a2826/694cd/presentation.webp&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Kerr Black Holes]]></title><description><![CDATA[Document Presentation]]></description><link>https://mattborghi.github.io/projects/Kerr Black Holes/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/Kerr Black Holes/</guid><pubDate>Sun, 14 Dec 2014 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Document&lt;/h3&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 100%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;object data=&quot;https://docs.google.com/viewer?url=https://github.com/mattborghi/kerr-blackholes/raw/main/KerrDocument.pdf&amp;amp;embedded=true&quot; type=&quot;application/pdf&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;iframe src=&quot;https://docs.google.com/viewer?url=https://github.com/mattborghi/kerr-blackholes/raw/main/KerrDocument.pdf&amp;amp;embedded=true&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/object&gt; &lt;/div&gt;
+&lt;h3&gt;Presentation&lt;/h3&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 100%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;object data=&quot;https://docs.google.com/viewer?url=https://github.com/mattborghi/kerr-blackholes/raw/main/presentation/presentation.pdf&amp;amp;embedded=true&quot; type=&quot;application/pdf&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;iframe src=&quot;https://docs.google.com/viewer?url=https://github.com/mattborghi/kerr-blackholes/raw/main/presentation/presentation.pdf&amp;amp;embedded=true&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/object&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Hexapod Robot]]></title><link>https://mattborghi.github.io/projects/Hexapod Robot/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/Hexapod Robot/</guid><pubDate>Sun, 08 Nov 2009 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d97dd2f09725e435163804856701d271/930dd/hexapod2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 474px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 57.05882352941176%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAABJ8pm+qCp/8QAGhAAAwEAAwAAAAAAAAAAAAAAAQIDAAQRMf/aAAgBAQABBQIWYOOS5Ea9zGGXz//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAwEBPwGJj//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAgEBPwGrr//EABwQAAIBBQEAAAAAAAAAAAAAAAEhAAIRICJRsf/aAAgBAQAGPwJOnksA/Jszh//EABsQAQADAAMBAAAAAAAAAAAAAAEAESExQVFx/9oACAEBAAE/Icuw+op3zHpSuuiosBzUFTGPZ//aAAwDAQACAAMAAAAQkz//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCQ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxAn/8QAGxABAQEBAAMBAAAAAAAAAAAAAREhADFxgZH/2gAIAQEAAT8QX5gMQZb+8MWYU0O35yLIAAWPboVDZwIgHOnhUvu9/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/d97dd2f09725e435163804856701d271/51a8e/hexapod2.webp 340w,
+/static/d97dd2f09725e435163804856701d271/cfef6/hexapod2.webp 474w&quot;
+          sizes=&quot;(max-width: 474px) 100vw, 474px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/d97dd2f09725e435163804856701d271/2e524/hexapod2.jpg 340w,
+/static/d97dd2f09725e435163804856701d271/930dd/hexapod2.jpg 474w&quot;
+          sizes=&quot;(max-width: 474px) 100vw, 474px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/d97dd2f09725e435163804856701d271/930dd/hexapod2.jpg&quot;
+          alt=&quot;hexapod&quot;
+          title=&quot;&quot;
+          src=&quot;/static/d97dd2f09725e435163804856701d271/930dd/hexapod2.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/PJFWH32YFsI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item></channel></rss>
