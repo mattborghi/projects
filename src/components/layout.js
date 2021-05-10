@@ -1,6 +1,12 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import GitHub from "../../static/icons/github.svg"
+import LinkedIn from "../../static/icons/linkedin.svg"
+
+// We should be using a Query, but this is much simpler
+import siteConfig from "../../siteConfig"
+
 const Layout = props => {
   const { location, title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
@@ -32,7 +38,7 @@ const Layout = props => {
               >
                 <Link to="/" role="menuitem">Home</Link>
               </li>
-              <li role="none"><Link to="https://mattborghi.github.io">Go Back</Link></li>
+              <li role="none"><a href="https://mattborghi.github.io">Go Back</a></li>
               {/* <li
                 className={`nav-about` + (location.pathname === `/about` ? ` nav-current` : ``)}
                 role="none"
@@ -55,20 +61,20 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
-                title="Facebook"
+                href={`https://github.com/${siteConfig.github}`}
+                title="GitHub"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                <img alt="github" src={GitHub} width="20" height="20" />
               </a>
               <a
-                href="https://twitter.com"
-                title="Twitter"
+                href={`https://linkedin.com/in/${siteConfig.linkedin}`}
+                title="LinkedIn"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Twitter
+                <img alt="linkedin" src={LinkedIn} width="20" height="20" />
               </a>
             </div>
           </div>
