@@ -17,10 +17,9 @@ const BlogIndex = ({ data, ...props }) => {
   return (
     <Layout title={siteTitle} location={props.location}>
       <SEO
-        title="All posts"
+        title="Home"
         keywords={[`blog`, `gatsby`, `javascript`, `react`]}
       />
-      {/* <Bio /> */}
       {data.site.siteMetadata.description && (
         <header className="page-head">
           <h2 className="page-head-title">
