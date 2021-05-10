@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Projects]]></title><description><![CDATA[Welcome! Please, take a look at all the projects I have been working on]]></description><link>https://mattborghi.github.io/projects</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 10 May 2021 16:44:36 GMT</lastBuildDate><item><title><![CDATA[Julia Terminal on the web]]></title><description><![CDATA[github: ’https://github.com/mattborghi/Julia-Terminal-Web’
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Projects]]></title><description><![CDATA[Welcome! Please, take a look at all the projects I have been working on]]></description><link>https://mattborghi.github.io/projects</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 10 May 2021 17:12:14 GMT</lastBuildDate><item><title><![CDATA[Julia Terminal on the web]]></title><description><![CDATA[github: ’https://github.com/mattborghi/Julia-Terminal-Web’
 tech: React WebSockets Node.js Julia A minimal working project that handles…]]></description><link>https://mattborghi.github.io/projects/Julia Terminal Web/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/Julia Terminal Web/</guid><pubDate>Sat, 27 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;github: ’&lt;a href=&quot;https://github.com/mattborghi/Julia-Terminal-Web&quot;&gt;https://github.com/mattborghi/Julia-Terminal-Web&lt;/a&gt;’
 tech:&lt;/p&gt;
 &lt;ul&gt;
@@ -42,7 +42,7 @@ tech:&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/23aec/presentation.jpg&quot;
+    href=&quot;/projects/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/23aec/presentation.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -58,24 +58,24 @@ tech:&lt;/p&gt;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/51a8e/presentation.webp 340w,
-/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/2056a/presentation.webp 587w&quot;
+          srcset=&quot;/projects/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/51a8e/presentation.webp 340w,
+/projects/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/2056a/presentation.webp 587w&quot;
           sizes=&quot;(max-width: 587px) 100vw, 587px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/2e524/presentation.jpg 340w,
-/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/23aec/presentation.jpg 587w&quot;
+          srcset=&quot;/projects/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/2e524/presentation.jpg 340w,
+/projects/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/23aec/presentation.jpg 587w&quot;
           sizes=&quot;(max-width: 587px) 100vw, 587px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/23aec/presentation.jpg&quot;
+          src=&quot;/projects/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/23aec/presentation.jpg&quot;
           alt=&quot;presentation&quot;
           title=&quot;&quot;
-          src=&quot;/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/23aec/presentation.jpg&quot;
+          src=&quot;/projects/static/ae0bdcd3fcd5cae751c8fbe3df11c89d/23aec/presentation.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -83,9 +83,9 @@ tech:&lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[ALAMBRE]]></title><description><![CDATA[Document Presentation]]></description><link>https://mattborghi.github.io/projects/ALAMBRE/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/ALAMBRE/</guid><pubDate>Tue, 08 Sep 2015 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Document&lt;/h3&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 100%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;object data=&quot;/96847696bfb941255c54e29a3965b07d/Detección_en_radio_de_rayos_cosmicos.pdf&quot; type=&quot;application/pdf&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;embed src=&quot;/96847696bfb941255c54e29a3965b07d/Detección_en_radio_de_rayos_cosmicos.pdf&quot;&gt; &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/96847696bfb941255c54e29a3965b07d/Detección_en_radio_de_rayos_cosmicos.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt; &lt;/object&gt; &lt;/div&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 100%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;object data=&quot;/projects/96847696bfb941255c54e29a3965b07d/Detección_en_radio_de_rayos_cosmicos.pdf&quot; type=&quot;application/pdf&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;embed src=&quot;/projects/96847696bfb941255c54e29a3965b07d/Detección_en_radio_de_rayos_cosmicos.pdf&quot;&gt; &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/projects/96847696bfb941255c54e29a3965b07d/Detección_en_radio_de_rayos_cosmicos.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt; &lt;/object&gt; &lt;/div&gt;
 &lt;h3&gt;Presentation&lt;/h3&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 100%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;object data=&quot;/6a3d4f3c67a9cf0d38e1723c1c0bee14/ALAMBRE_POSTER_AFA.pdf&quot; type=&quot;application/pdf&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;embed src=&quot;/6a3d4f3c67a9cf0d38e1723c1c0bee14/ALAMBRE_POSTER_AFA.pdf&quot;&gt; &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/6a3d4f3c67a9cf0d38e1723c1c0bee14/ALAMBRE_POSTER_AFA.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt; &lt;/object&gt; &lt;/div&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 100%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;object data=&quot;/projects/6a3d4f3c67a9cf0d38e1723c1c0bee14/ALAMBRE_POSTER_AFA.pdf&quot; type=&quot;application/pdf&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;embed src=&quot;/projects/6a3d4f3c67a9cf0d38e1723c1c0bee14/ALAMBRE_POSTER_AFA.pdf&quot;&gt; &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/projects/6a3d4f3c67a9cf0d38e1723c1c0bee14/ALAMBRE_POSTER_AFA.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt; &lt;/object&gt; &lt;/div&gt;
 &lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
@@ -97,24 +97,24 @@ tech:&lt;/p&gt;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/c1046634373627ce06a35b5c0a8a2826/51a8e/presentation.webp 340w,
-/static/c1046634373627ce06a35b5c0a8a2826/694cd/presentation.webp 580w&quot;
+          srcset=&quot;/projects/static/c1046634373627ce06a35b5c0a8a2826/51a8e/presentation.webp 340w,
+/projects/static/c1046634373627ce06a35b5c0a8a2826/694cd/presentation.webp 580w&quot;
           sizes=&quot;(max-width: 580px) 100vw, 580px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/c1046634373627ce06a35b5c0a8a2826/51a8e/presentation.webp 340w,
-/static/c1046634373627ce06a35b5c0a8a2826/694cd/presentation.webp 580w&quot;
+          srcset=&quot;/projects/static/c1046634373627ce06a35b5c0a8a2826/51a8e/presentation.webp 340w,
+/projects/static/c1046634373627ce06a35b5c0a8a2826/694cd/presentation.webp 580w&quot;
           sizes=&quot;(max-width: 580px) 100vw, 580px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/c1046634373627ce06a35b5c0a8a2826/694cd/presentation.webp&quot;
+          src=&quot;/projects/static/c1046634373627ce06a35b5c0a8a2826/694cd/presentation.webp&quot;
           alt=&quot;poster&quot;
           title=&quot;&quot;
-          src=&quot;/static/c1046634373627ce06a35b5c0a8a2826/694cd/presentation.webp&quot;
+          src=&quot;/projects/static/c1046634373627ce06a35b5c0a8a2826/694cd/presentation.webp&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -125,7 +125,7 @@ tech:&lt;/p&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 100%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;object data=&quot;https://docs.google.com/viewer?url=https://github.com/mattborghi/kerr-blackholes/raw/main/presentation/presentation.pdf&amp;amp;embedded=true&quot; type=&quot;application/pdf&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;iframe src=&quot;https://docs.google.com/viewer?url=https://github.com/mattborghi/kerr-blackholes/raw/main/presentation/presentation.pdf&amp;amp;embedded=true&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/object&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Hexapod Robot]]></title><link>https://mattborghi.github.io/projects/Hexapod Robot/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/Hexapod Robot/</guid><pubDate>Sun, 08 Nov 2009 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/d97dd2f09725e435163804856701d271/930dd/hexapod2.jpg&quot;
+    href=&quot;/projects/static/d97dd2f09725e435163804856701d271/930dd/hexapod2.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -141,24 +141,24 @@ tech:&lt;/p&gt;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/d97dd2f09725e435163804856701d271/51a8e/hexapod2.webp 340w,
-/static/d97dd2f09725e435163804856701d271/cfef6/hexapod2.webp 474w&quot;
+          srcset=&quot;/projects/static/d97dd2f09725e435163804856701d271/51a8e/hexapod2.webp 340w,
+/projects/static/d97dd2f09725e435163804856701d271/cfef6/hexapod2.webp 474w&quot;
           sizes=&quot;(max-width: 474px) 100vw, 474px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/d97dd2f09725e435163804856701d271/2e524/hexapod2.jpg 340w,
-/static/d97dd2f09725e435163804856701d271/930dd/hexapod2.jpg 474w&quot;
+          srcset=&quot;/projects/static/d97dd2f09725e435163804856701d271/2e524/hexapod2.jpg 340w,
+/projects/static/d97dd2f09725e435163804856701d271/930dd/hexapod2.jpg 474w&quot;
           sizes=&quot;(max-width: 474px) 100vw, 474px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/d97dd2f09725e435163804856701d271/930dd/hexapod2.jpg&quot;
+          src=&quot;/projects/static/d97dd2f09725e435163804856701d271/930dd/hexapod2.jpg&quot;
           alt=&quot;hexapod&quot;
           title=&quot;&quot;
-          src=&quot;/static/d97dd2f09725e435163804856701d271/930dd/hexapod2.jpg&quot;
+          src=&quot;/projects/static/d97dd2f09725e435163804856701d271/930dd/hexapod2.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
