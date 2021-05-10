@@ -9,6 +9,7 @@ thumbnail: './preview.png'
 Fore more information, visit the GitHub repository
 <a style="padding-left: 10px;" href="https://github.com/mattborghi/background-tasks-queue">
   <img src="../../assets/github.svg" height="20px" width="20px">
+  <img src="../../assets/github_white.svg" height="20px" width="20px">
 </a>
 </span>
 
@@ -16,6 +17,7 @@ Fore more information, visit the GitHub repository
 In order to see and test a live demo deployed using Heroku click here
 <a style="padding-left: 10px;" href="https://mattborghi.github.io/background-tasks-queue/">
   <img src="../../assets/heroku.svg" height="20px" width="20px">
+  <img src="../../assets/heroku_white.svg" height="20px" width="20px">
 </a>
 </span>
 

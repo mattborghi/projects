@@ -10,6 +10,7 @@ description: Kerr Metric study, calculations and current scientific projects.
 Fore more information, visit the GitHub repository
 <a style="padding-left: 10px;" href="https://github.com/mattborghi/kerr-blackholes">
   <img src="../../assets/github.svg" height="20px" width="20px">
+  <img src="../../assets/github_white.svg" height="20px" width="20px">
 </a>
 </span>
 
