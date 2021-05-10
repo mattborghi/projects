@@ -61,10 +61,10 @@
     "url": "git+https://github.com/ImedAdel/gatsby-london.git"
   },
   "scripts": {
-    "build": "gatsby build",
+    "build": "gatsby build --prefix-paths",
     "clean": "gatsby clean",
     "deploy": "npm run clean && npm run build && gh-pages -d public",
-    "develop": "gatsby develop",
+    "develop": "gatsby develop --open",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
