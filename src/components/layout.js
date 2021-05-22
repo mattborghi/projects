@@ -85,7 +85,7 @@ const Layout = props => {
               >
                 <Link to="/" role="menuitem">Home</Link>
               </li>
-              <li role="none"><a href={siteConfig.url}>Main Page</a></li>
+              <li role="none"><a href={siteConfig.url.split("/projects")[0]}>Main Page</a></li>
             </ul>
           </nav>
           <div className="site-head-center">
