@@ -1,5 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Projects]]></title><description><![CDATA[Welcome! Please, take a look at all the projects I have been working on]]></description><link>https://mattborghi.github.io/projects</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 01 Jun 2021 14:27:30 GMT</lastBuildDate><item><title><![CDATA[Julia Terminal on the web]]></title><description><![CDATA[Introduction A minimal working project that handles several pseudoterminals running  on . It’s UI design is based on VSCode and Atom IDEs…]]></description><link>https://mattborghi.github.io/projects/Julia Terminal Web/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/Julia Terminal Web/</guid><pubDate>Sat, 27 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;span style=&quot;display:flex; flex-direction: row; align-items: center; justify-content: flex-start;&quot;&gt;
-Fore more information, visit the GitHub repository
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Projects]]></title><description><![CDATA[Welcome! Please, take a look at all the projects I have been working on]]></description><link>https://mattborghi.github.io/projects</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 04 Jun 2021 20:29:36 GMT</lastBuildDate><item><title><![CDATA[MNIST web app]]></title><description><![CDATA[Introduction Github pages deployment of a simple machine learning model that uses the  database for digit recognition using . image Figure…]]></description><link>https://mattborghi.github.io/projects/MNIST/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/MNIST/</guid><pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate><content:encoded>&lt;span style=&quot;display:flex; flex-direction: row; align-items: center; justify-content: flex-start;&quot;&gt;
+For more information, visit the GitHub repository
+&lt;a style=&quot;padding-left: 10px;&quot; href=&quot;https://github.com/mattborghi/mnist-webapp&quot;&gt;
+  &lt;img src=&quot;/projects/497f08131634362daabdbdfa3d340c22/github.svg&quot; height=&quot;20px&quot; width=&quot;20px&quot;&gt;
+  &lt;img src=&quot;/projects/8b960ac2bde1a73794bba3b644cfdd2a/github_white.svg&quot; height=&quot;20px&quot; width=&quot;20px&quot;&gt;
+&lt;/a&gt;
+&lt;/span&gt;
+&lt;span style=&quot;display:flex; flex-direction: row; align-items: center; justify-content: flex-start;&quot;&gt;
+In order to see and test the live demo click here
+&lt;a style=&quot;padding-left: 10px;&quot; href=&quot;https://mattborghi.github.io/mnist-webapp/&quot;&gt;
+  &lt;img src=&quot;/projects/497f08131634362daabdbdfa3d340c22/github.svg&quot; height=&quot;20px&quot; width=&quot;20px&quot;&gt;
+  &lt;img src=&quot;/projects/8b960ac2bde1a73794bba3b644cfdd2a/github_white.svg&quot; height=&quot;20px&quot; width=&quot;20px&quot;&gt;
+&lt;/a&gt;
+&lt;/span&gt;
+&lt;h3&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;Github pages deployment of a simple machine learning model that uses the &lt;code class=&quot;language-text&quot;&gt;MNIST&lt;/code&gt; database for digit recognition using &lt;code class=&quot;language-text&quot;&gt;TensorFlow.js&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mattborghi/mnist-webapp/main/assets/img/model.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1.&lt;/strong&gt; Model summary table. &lt;/p&gt;
+&lt;h3&gt;Key Challenges&lt;/h3&gt;
+&lt;p&gt;Generally, having to train the model and making the data preprocessing is not difficult per se. Dealing with the user input images was the biggest deal as, for example, investigating how to transform the raw data into the desired arrays used for input into the &lt;code class=&quot;language-text&quot;&gt;prediction&lt;/code&gt; function.&lt;/p&gt;
+&lt;p&gt;Input images are obtained as a &lt;em&gt;112x112&lt;/em&gt; array but need to be transformed into a &lt;em&gt;28x28&lt;/em&gt; array.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://interactivechaos.com/sites/default/files/2020-09/tutdl_0072.jpg&quot; alt=&quot;input&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2.&lt;/strong&gt; Input images.&lt;/p&gt;
+&lt;p&gt;Several things can be used for this like only saving 1 out of 4 pixels but I found out that key pixels were lost in the process. So I desided to use an average-like approach that works considerably better. Surely there are better methods that can be used but the latter was considered satisfactory. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Julia Terminal on the web]]></title><description><![CDATA[Introduction A minimal working project that handles several pseudoterminals running  on . It’s UI design is based on VSCode and Atom IDEs…]]></description><link>https://mattborghi.github.io/projects/Julia Terminal Web/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/Julia Terminal Web/</guid><pubDate>Sat, 27 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;span style=&quot;display:flex; flex-direction: row; align-items: center; justify-content: flex-start;&quot;&gt;
+For more information, visit the GitHub repository
 &lt;a style=&quot;padding-left: 10px;&quot; href=&quot;https://github.com/mattborghi/Julia-Terminal-Web&quot;&gt;
   &lt;img src=&quot;/projects/497f08131634362daabdbdfa3d340c22/github.svg&quot; height=&quot;20px&quot; width=&quot;20px&quot;&gt;
   &lt;img src=&quot;/projects/8b960ac2bde1a73794bba3b644cfdd2a/github_white.svg&quot; height=&quot;20px&quot; width=&quot;20px&quot;&gt;
@@ -14,7 +37,7 @@ Fore more information, visit the GitHub repository
 &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/&quot;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://julialang.org/&quot;&gt;Julia&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Background Task Queues]]></title><description><![CDATA[Note: The webpage might be showing an error message because the dyno workers deployed in  are turned off. Introduction The frontend () will…]]></description><link>https://mattborghi.github.io/projects/Background Task Queues/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/Background Task Queues/</guid><pubDate>Wed, 06 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;span style=&quot;display:flex; flex-direction: row; align-items: center; justify-content: flex-start;&quot;&gt;
-Fore more information, visit the GitHub repository
+For more information, visit the GitHub repository
 &lt;a style=&quot;padding-left: 10px;&quot; href=&quot;https://github.com/mattborghi/background-tasks-queue&quot;&gt;
   &lt;img src=&quot;/projects/497f08131634362daabdbdfa3d340c22/github.svg&quot; height=&quot;20px&quot; width=&quot;20px&quot;&gt;
   &lt;img src=&quot;/projects/8b960ac2bde1a73794bba3b644cfdd2a/github_white.svg&quot; height=&quot;20px&quot; width=&quot;20px&quot;&gt;
@@ -53,7 +76,7 @@ In order to see and test a live demo deployed using Heroku click here
 &lt;/ul&gt;
 &lt;h3&gt;Video&lt;/h3&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/8aVgLDDIEdg&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Julia Editor on the web]]></title><description><![CDATA[Introduction A minimal working project that handles Microsoft’s  on the web with ’s syntax highlighting and a dedicated  that allows a…]]></description><link>https://mattborghi.github.io/projects/Julia Editor on the Web/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/Julia Editor on the Web/</guid><pubDate>Sun, 24 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;span style=&quot;display:flex; flex-direction: row; align-items: center; justify-content: flex-start;&quot;&gt;
-Fore more information, visit the GitHub repository
+For more information, visit the GitHub repository
 &lt;a style=&quot;padding-left: 10px;&quot; href=&quot;https://github.com/mattborghi/monaco-editor-julia-language-server&quot;&gt;
   &lt;img src=&quot;/projects/497f08131634362daabdbdfa3d340c22/github.svg&quot; height=&quot;20px&quot; width=&quot;20px&quot;&gt;
   &lt;img src=&quot;/projects/8b960ac2bde1a73794bba3b644cfdd2a/github_white.svg&quot; height=&quot;20px&quot; width=&quot;20px&quot;&gt;
@@ -68,7 +91,7 @@ Fore more information, visit the GitHub repository
 &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/&quot;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://julialang.org/&quot;&gt;Julia&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[MSc. Physics Thesis]]></title><description><![CDATA[Study of phase transitions of an Ising-type model with spin oriented dependent interaction parameters Presentation  Tech Stack Fortran LaTeX…]]></description><link>https://mattborghi.github.io/projects/MSc Thesis/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/MSc Thesis/</guid><pubDate>Thu, 08 Jun 2017 00:00:00 GMT</pubDate><content:encoded>&lt;span style=&quot;display:flex; flex-direction: row; align-items: center; justify-content: flex-start;&quot;&gt;
-Fore more information, visit the GitHub repository
+For more information, visit the GitHub repository
 &lt;a style=&quot;padding-left: 10px;&quot; href=&quot;https://github.com/mattborghi/Thesis&quot;&gt;
   &lt;img src=&quot;/projects/497f08131634362daabdbdfa3d340c22/github.svg&quot; height=&quot;20px&quot; width=&quot;20px&quot;&gt;
   &lt;img src=&quot;/projects/8b960ac2bde1a73794bba3b644cfdd2a/github_white.svg&quot; height=&quot;20px&quot; width=&quot;20px&quot;&gt;
@@ -180,7 +203,7 @@ antenna focus would have.&lt;/p&gt;
       &lt;/span&gt;
   &lt;/span&gt;
   &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Kerr Black Holes]]></title><description><![CDATA[Introduction This is the final project presented for the course  in 2014. Document Presentation]]></description><link>https://mattborghi.github.io/projects/Kerr Black Holes/</link><guid isPermaLink="false">https://mattborghi.github.io/projects/Kerr Black Holes/</guid><pubDate>Sun, 14 Dec 2014 00:00:00 GMT</pubDate><content:encoded>&lt;span style=&quot;display:flex; flex-direction: row; align-items: center; justify-content: flex-start;&quot;&gt;
-Fore more information, visit the GitHub repository
+For more information, visit the GitHub repository
 &lt;a style=&quot;padding-left: 10px;&quot; href=&quot;https://github.com/mattborghi/kerr-blackholes&quot;&gt;
   &lt;img src=&quot;/projects/497f08131634362daabdbdfa3d340c22/github.svg&quot; height=&quot;20px&quot; width=&quot;20px&quot;&gt;
   &lt;img src=&quot;/projects/8b960ac2bde1a73794bba3b644cfdd2a/github_white.svg&quot; height=&quot;20px&quot; width=&quot;20px&quot;&gt;
