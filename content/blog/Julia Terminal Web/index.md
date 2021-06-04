@@ -6,7 +6,7 @@ description: "Full-Stack project that uses Julia terminals on the web"
 ---
 
 <span style="display:flex; flex-direction: row; align-items: center; justify-content: flex-start;">
-Fore more information, visit the GitHub repository
+For more information, visit the GitHub repository
 <a style="padding-left: 10px;" href="https://github.com/mattborghi/Julia-Terminal-Web">
   <img src="../../assets/github.svg" height="20px" width="20px">
   <img src="../../assets/github_white.svg" height="20px" width="20px">

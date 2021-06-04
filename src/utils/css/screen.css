@@ -465,7 +465,7 @@ body.dark .site-head-logo {
 
 body.dark .post-card-content {
     color: var(--color-text-dark);
-    text-shadow: 1px 1px 2px var(--color-text-border-dark);
+    text-shadow: 1px 1px 3px var(--color-text-border-dark);
 }
 
 .post-card.with-image .post-card-content {
