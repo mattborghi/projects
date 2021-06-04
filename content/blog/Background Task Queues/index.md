@@ -21,7 +21,7 @@ In order to see and test a live demo deployed using Heroku click here
 </a>
 </span>
 
-> Note: The webpage might be showing an error message because the dyno workers deployed in `Heroku` are turned off.
+> Note: The webpage might be showing an error message because the dyno workers deployed in `Heroku` are turned off. If that is the case, just reach me out and I will turn them back on.
 
 ### Introduction
 
