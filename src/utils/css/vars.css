@@ -7,13 +7,15 @@
 
     /* Colours */
     --color-text: #fff;
+    --color-text-border: #000;
     --color-primary: #3eb0ef;
     --color-base: #131313;
     --color-border: #ddd;
     --color-bg: #f8f8f8;
     --current-item: #F06000;
 
-    --color-text-dark: #000;
+    --color-text-dark: #fff;
+    --color-text-border-dark: #000;
     --color-primary-dark: rgba(255, 255, 255, 0.88);
     --color-base-dark: white;
     --color-border-dark: yellow;

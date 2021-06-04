@@ -457,6 +457,7 @@ body.dark .site-head-logo {
     bottom: 0;
     left: 0;
     color: var(--color-text);
+    text-shadow: 0 0 2px var(--color-text-border);
     background: rgba(0,0,0,0.1);
     opacity: 1;
     transition: opacity 0.5s cubic-bezier(.33,0,.2,1);
@@ -464,6 +465,7 @@ body.dark .site-head-logo {
 
 body.dark .post-card-content {
     color: var(--color-text-dark);
+    text-shadow: 1px 1px 2px var(--color-text-border-dark);
 }
 
 .post-card.with-image .post-card-content {
