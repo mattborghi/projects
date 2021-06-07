@@ -1,8 +1,10 @@
 name: Deploy to Github Pages
 on: 
   push:
-    branches: 
-      - 'main'
+    # branches: 
+    #   - 'main'
+     branches-ignore:
+      - '**'
 jobs:
   Deploy:
     runs-on: ubuntu-latest
